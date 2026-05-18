@@ -1,0 +1,547 @@
+[
+  {
+    "timestamp": "2026-05-12 11:25:05",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 11:28:52",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 11:31:30",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 11:35:17",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 11:35:40",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 11:36:55",
+    "classe": "metal",
+    "confiance": 99.13,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "🥫"
+  },
+  {
+    "timestamp": "2026-05-12 11:38:01",
+    "classe": "metal",
+    "confiance": 89.57,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "🥫"
+  },
+  {
+    "timestamp": "2026-05-12 12:27:14",
+    "classe": "plastic",
+    "emoji": "♻️",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 2.5,
+    "top3": [
+      {
+        "classe": "plastic",
+        "score": 66.27970337867737
+      },
+      {
+        "classe": "trash",
+        "score": 16.875313222408295
+      },
+      {
+        "classe": "glass",
+        "score": 5.833831802010536
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:28:10",
+    "classe": "plastic",
+    "emoji": "♻️",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 2.5,
+    "top3": [
+      {
+        "classe": "plastic",
+        "score": 66.27970337867737
+      },
+      {
+        "classe": "trash",
+        "score": 16.875313222408295
+      },
+      {
+        "classe": "glass",
+        "score": 5.833831802010536
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:29:30",
+    "classe": "metal",
+    "emoji": "🥫",
+    "confiance": 99.13,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 1.7,
+    "top3": [
+      {
+        "classe": "metal",
+        "score": 99.13486838340759
+      },
+      {
+        "classe": "cardboard",
+        "score": 0.5349720828235149
+      },
+      {
+        "classe": "glass",
+        "score": 0.25459721218794584
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:29:36",
+    "classe": "metal",
+    "emoji": "🥫",
+    "confiance": 99.13,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 1.7,
+    "top3": [
+      {
+        "classe": "metal",
+        "score": 99.13486838340759
+      },
+      {
+        "classe": "cardboard",
+        "score": 0.5349720828235149
+      },
+      {
+        "classe": "glass",
+        "score": 0.25459721218794584
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:37:53",
+    "classe": "metal",
+    "emoji": "🥫",
+    "confiance": 82.34,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 1.7,
+    "top3": [
+      {
+        "classe": "metal",
+        "score": 82.34142661094666
+      },
+      {
+        "classe": "plastic",
+        "score": 7.692692428827286
+      },
+      {
+        "classe": "trash",
+        "score": 5.149078369140625
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:39:34",
+    "classe": "metal",
+    "emoji": "🥫",
+    "confiance": 63.57,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 1.7,
+    "top3": [
+      {
+        "classe": "metal",
+        "score": 63.57280611991882
+      },
+      {
+        "classe": "plastic",
+        "score": 23.033365607261658
+      },
+      {
+        "classe": "cardboard",
+        "score": 4.423031210899353
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:46:53",
+    "classe": "metal",
+    "emoji": "🥫",
+    "confiance": 63.57,
+    "recyclable": true,
+    "poubelle": "🟡 Bac Jaune",
+    "co2_economise": 1.7,
+    "top3": [
+      {
+        "classe": "metal",
+        "score": 63.57280611991882
+      },
+      {
+        "classe": "plastic",
+        "score": 23.033365607261658
+      },
+      {
+        "classe": "cardboard",
+        "score": 4.423031210899353
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-12 12:52:02",
+    "classe": "metal",
+    "confiance": 89.57,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "🥫"
+  },
+  {
+    "timestamp": "2026-05-12 13:10:56",
+    "classe": "metal",
+    "confiance": 63.57,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "🥫"
+  },
+  {
+    "timestamp": "2026-05-12 16:37:00",
+    "classe": "cardboard",
+    "confiance": 96.47,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-12 16:37:31",
+    "classe": "paper",
+    "confiance": 68.59,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📄"
+  },
+  {
+    "timestamp": "2026-05-12 16:38:27",
+    "classe": "glass",
+    "confiance": 42.62,
+    "recyclable": true,
+    "poubelle": "🟢 Borne à verre",
+    "emoji": "🍾"
+  },
+  {
+    "timestamp": "2026-05-12 16:38:49",
+    "classe": "glass",
+    "confiance": 42.62,
+    "recyclable": true,
+    "poubelle": "🟢 Borne à verre",
+    "emoji": "🍾"
+  },
+  {
+    "timestamp": "2026-05-12 17:05:59",
+    "classe": "glass",
+    "confiance": 36.51,
+    "recyclable": true,
+    "poubelle": "🟢 Borne à verre",
+    "emoji": "🍾"
+  },
+  {
+    "timestamp": "2026-05-12 17:10:59",
+    "classe": "plastic",
+    "confiance": 60.25,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 17:11:29",
+    "classe": "cardboard",
+    "confiance": 58.34,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-12 17:11:58",
+    "classe": "cardboard",
+    "confiance": 97.09,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-12 18:50:13",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:03",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:04",
+    "classe": "plastic",
+    "confiance": 83.06,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:18",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:25",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:25",
+    "classe": "paper",
+    "confiance": 80.83,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📄"
+  },
+  {
+    "timestamp": "2026-05-12 18:51:37",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 19:27:57",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 19:44:27",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 19:44:48",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 22:38:47",
+    "classe": "paper",
+    "confiance": 74.15,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📄"
+  },
+  {
+    "timestamp": "2026-05-12 22:40:06",
+    "classe": "paper",
+    "confiance": 97.48,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📄"
+  },
+  {
+    "timestamp": "2026-05-12 22:40:40",
+    "classe": "plastic",
+    "confiance": 77.3,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-12 23:02:43",
+    "classe": "metal",
+    "confiance": 63.57,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "🥫"
+  },
+  {
+    "timestamp": "2026-05-12 23:08:40",
+    "classe": "glass",
+    "confiance": 58.32,
+    "recyclable": true,
+    "poubelle": "🟢 Borne à verre",
+    "emoji": "🍾"
+  },
+  {
+    "timestamp": "2026-05-12 23:09:04",
+    "classe": "plastic",
+    "confiance": 49.91,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 09:52:09",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 09:52:20",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 09:52:34",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 11:15:47",
+    "classe": "plastic",
+    "confiance": 96.76,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 22:20:30",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-14 22:21:28",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-14 22:22:58",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-14 22:23:06",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-14 23:27:04",
+    "classe": "plastic",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 23:27:51",
+    "classe": "plastic",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-14 23:27:54",
+    "classe": "plastic",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-18 05:24:08",
+    "classe": "plastic",
+    "confiance": 66.28,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "♻️"
+  },
+  {
+    "timestamp": "2026-05-18 05:24:53",
+    "classe": "glass",
+    "confiance": 53.17,
+    "recyclable": true,
+    "poubelle": "🟢 Borne à verre",
+    "emoji": "🍾"
+  },
+  {
+    "timestamp": "2026-05-18 05:25:51",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  },
+  {
+    "timestamp": "2026-05-18 05:57:47",
+    "classe": "cardboard",
+    "confiance": 97.52,
+    "recyclable": true,
+    "poubelle": "🟡 Poubelle jaune",
+    "emoji": "📦"
+  }
+]
